@@ -3,7 +3,7 @@ name = "async-blocking-bridger"
 version = "0.1.0"
 edition = "2021"
 description = "A way to write a blocking client and async client without repeating yourself"
-lisence = "MIT"
+license = "MIT"
 
 [lib]
 proc-macro = true
